@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **diggzhang/diggzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+    .___.__                    .__                           
+  __| _/|__| ____   ___________|  |__ _____    ____    ____  
+ / __ | |  |/ ___\ / ___\___   /  |  \\__  \  /    \  / ___\ 
+/ /_/ | |  / /_/  > /_/  >    /|   Y  \/ __ \|   |  \/ /_/  >
+\____ | |__\___  /\___  /_____ \___|  (____  /___|  /\___  / 
+     \/   /_____//_____/      \/    \/     \/     \//_____/  
