@@ -11,4 +11,4 @@
 - 🌱 大数据技术栈技能成长中
 - 👯 希望获得编码大师的指点，希望获得同学
 - 🤔 思考下个阶段如何成长
-- 📫 微信diggzhang
+- 📫 微信/telegram/twitter: diggzhang
